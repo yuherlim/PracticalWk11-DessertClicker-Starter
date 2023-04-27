@@ -28,6 +28,8 @@ import androidx.databinding.DataBindingUtil
 import com.example.android.dessertclicker.databinding.ActivityMainBinding
 import timber.log.Timber
 
+//codelab link: https://developer.android.com/codelabs/kotlin-android-training-lifecycles-logging#0
+
 class MainActivity : AppCompatActivity() {
 
     private var revenue = 0
